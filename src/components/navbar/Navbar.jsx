@@ -28,7 +28,8 @@ const Navbar = () => {
          </div>
         </div>
         <div className='gpt3__navbar-sign'>
-           <button type='button'>Handbook</button>
+        <a href="https://docs.google.com/document/d/e/2PACX-1vS57xr6oxYNCWT87arZLGT_mFoWRpCw8P2Q7Vo1ayNgHxRXvIwAuP2kGdAt1bM81MiGjHWSv4oUbF2X/pub?embedded=true"><button type='button'>Handbook</button> </a>
+          
         </div>
         <div className='gpt3__navbar-menu'>
             {toggleMenu

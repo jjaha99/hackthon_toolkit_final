@@ -12,13 +12,13 @@ const Header = () => (
           <br></br>So come play and experience creative collisions that will empower you to design the future and be a part of the rich innovation culture at Concordia!</p>
 
       <div className="gpt3__header-content__input">
-        <button type="button">Check us out!</button>
+      <a href='https://www.concordia.ca/next-gen/innovation-lab.html'><button type="button">Check us out!</button> </a> 
       </div>
 
     </div>
 
     <div className="gpt3__header-image">
-      <img src={bg} />
+     <img src={bg} /> 
     </div>
   </div>
 );
